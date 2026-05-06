@@ -166,6 +166,14 @@ body { font-family: 'Segoe UI', sans-serif; color: var(--escuro); }
   border-radius: 8px;
 }
 
+.localizacao iframe {
+  width: 100%;
+  max-width: 680px;
+  aspect-ratio: 16/9;
+  height: auto;
+  border-radius: 8px;
+}
+
 /* ── CONTATO / CORRETORA ── */
 .contato { padding: 80px 24px; }
 .contato h2 { font-size: 1.8rem; font-weight: 400; margin-bottom: 12px; }
